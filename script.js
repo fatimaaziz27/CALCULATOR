@@ -1,6 +1,5 @@
 let display = document.getElementById("display");
 let buttons = document.querySelectorAll("button");
-
 buttons.forEach(button => {
     button.addEventListener("click", () => {
         let value = button.innerText;
@@ -28,5 +27,4 @@ buttons.forEach(button => {
             }
         }
     });
-    
 });
