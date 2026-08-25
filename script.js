@@ -21,7 +21,6 @@ buttons.forEach(button => {
                 display.value = "Error";
             }
         }
-
         else {
             if (display.value === "0") {
                 display.value = value;
@@ -30,7 +29,5 @@ buttons.forEach(button => {
                 display.value += value;
             }
         }
-
     });
-
 });
