@@ -10,7 +10,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #888888;
+    background: #01071b;
 }
 
 .calculator {
@@ -20,8 +20,8 @@ body {
     background: #274112;
 
     box-shadow:
-        12px 12px 25px #000000,
-        -8px -8px 20px #fffdfd;
+        10px 10px 20px #000000,
+        -2px -2px 15px #041a63;
 
 }
 
@@ -51,14 +51,14 @@ button {
     height: 70px;
     border: none;
     border-radius: 50%;
-    background: #ffffff;
-    color: #000000;
+    background: rgb(149, 206, 103);
+    color: #030e02;
     font-size: 25px;
     cursor: pointer;
 
     box-shadow:
-        8px 8px 15px #cccccc,
-        -4px -4px 10px #ffffff;
+        2px 2px 10px #000000,
+        -2px -2px 5px #000000;
 
     transition: 0.2s;
 }
@@ -68,10 +68,10 @@ button:active {
 }
 
 .green {
-    color: #000000;
+    color: #030e02;
 }
 
 .orange {
-    background: #ffffff;
-    color: #000000;
+    background: rgb(149, 206, 103);
+    color: #030e02;
 }
