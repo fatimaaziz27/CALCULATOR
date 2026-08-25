@@ -8,11 +8,9 @@ buttons.forEach(button => {
         if (value === "AC") {
             display.value = "";
         }
-
         else if (value === "DEL") {
             display.value = display.value.slice(0, -1);
         }
-
         else if (value === "=") {
             try {
                 display.value = eval(display.value);
@@ -30,4 +28,5 @@ buttons.forEach(button => {
             }
         }
     });
+    
 });
