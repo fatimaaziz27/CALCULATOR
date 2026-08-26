@@ -24,16 +24,9 @@ The project was created to practice HTML structure, CSS styling, CSS Grid, butto
 - Interactive button effects
 - Modern calculator interface
 
-## Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
-
 ## Design
 
 The calculator uses:
-
 - CSS Grid for the button layout
 - Rounded calculator buttons
 - Soft shadows
