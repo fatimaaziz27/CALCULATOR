@@ -2,13 +2,13 @@
 
 A simple and modern calculator built using HTML, CSS, and JavaScript.
 
-## 📌 About
+## About
 
 This project is a basic calculator designed with a clean and modern user interface. It allows users to perform common mathematical calculations directly in the browser.
 
 The project was created to practice HTML structure, CSS styling, CSS Grid, button interactions, and JavaScript DOM manipulation.
 
-## ✨ Features
+## Features
 
 - Addition
 - Subtraction
@@ -24,13 +24,13 @@ The project was created to practice HTML structure, CSS styling, CSS Grid, butto
 - Interactive button effects
 - Modern calculator interface
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 
-## 🎨 Design
+## Design
 
 The calculator uses:
 
@@ -40,12 +40,3 @@ The calculator uses:
 - Modern color scheme
 - Responsive viewport settings
 - Interactive button animations
-
-## 📂 Project Structure
-
-```text
-MODERN_CALCULATOR/
-│
-├── index.html
-├── styles.css
-└── script.js
