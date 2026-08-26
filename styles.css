@@ -1,4 +1,3 @@
-
 * {
     margin: 0;
     padding: 0;
@@ -71,7 +70,7 @@ button:active {
     color: #1E5A8A;
 }
 
-.orange {
+.o {
     background: #4A90C2;
     color: #FFFFFF;
 }
